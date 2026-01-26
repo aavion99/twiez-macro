@@ -19,7 +19,7 @@
 <div align="center" style="margin: 20px 0;">
   
   [![Downloads@latest](https://img.shields.io/github/downloads/twiez/twiez-macro/total?style=for-the-badge)](https://github.com/twiez/twiez-macro/releases/download/v1.0/twiez-macro.exe)
-  [![Release Version Badge](https://img.shields.io/github/v/release/twiez/twiez-macro?style=for-the-badge)](https://github.com/twiez/twiez-macro/releases))
+  [![Release Version Badge](https://img.shields.io/github/v/release/twiez/twiez-macro?style=for-the-badge)](https://github.com/twiez/twiez-macro/releases)
   [![Issues Badge](https://img.shields.io/github/issues/twiez/twiez-macro?style=for-the-badge)](https://github.com/twiez/twiez-macro/issues)
   [![Closed Issues Badge](https://img.shields.io/github/issues-closed/twiez/twiez-macro?color=%238256d0&style=for-the-badge)](https://github.com/twiez/twiez-macro/issues?q=is%3Aissue+is%3Aclosed)<br>
 
