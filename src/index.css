@@ -1,0 +1,51 @@
+:root {
+  font-family: "Inter", "Segoe UI", "SF Pro Display", system-ui, -apple-system, sans-serif;
+  line-height: 1.6;
+  font-weight: 500;
+  color: #e6e6f4;
+  background-color: #05060b;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  color-scheme: dark;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+a {
+  color: inherit;
+}
+
+body {
+  min-height: 100vh;
+  margin: 0;
+  overflow: hidden;
+}
+
+/* make the Tauri window background match our app when using transparent windows */
+html,
+body {
+  background: #05060b;
+}
+
+/* Tauri drag regions: allow dragging titlebar, but keep buttons clickable */
+[data-tauri-drag-region] {
+  -webkit-app-region: drag;
+}
+.titlebar-controls,
+.titlebar-controls * {
+  -webkit-app-region: no-drag;
+}
+
+/* hide web-like scrollbars */
+* {
+  scrollbar-width: none;
+}
+*::-webkit-scrollbar {
+  width: 0;
+  height: 0;
+}
